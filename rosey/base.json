@@ -1,4 +1,128 @@
 {
   "version": 2,
-  "keys": {}
+  "keys": {
+    "Beautiful-email-campaigns": {
+      "original": "Beautiful email campaigns",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "How-to-host-better-email-marketing-campaigns": {
+      "original": "How to host better email marketing campaigns?",
+      "value": null,
+      "pages": {
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1
+      },
+      "total": 1
+    },
+    "Try-This-Free": {
+      "original": "Try This Free",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "What-are-the-best-email-clients": {
+      "original": "What are the best email clients?",
+      "value": null,
+      "pages": {
+        "blog/what-are-the-best-email-clients/index.html": 1
+      },
+      "total": 1
+    },
+    "common:recent-blog": {
+      "original": "Recent Blog",
+      "value": null,
+      "pages": {
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1
+      },
+      "total": 2
+    },
+    "minutes": {
+      "original": "minutes",
+      "value": null,
+      "pages": {
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1
+      },
+      "total": 2
+    },
+    "rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E": {
+      "original": "Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.",
+      "value": null,
+      "pages": {
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1
+      },
+      "total": 1
+    },
+    "rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E": {
+      "original": "Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.",
+      "value": null,
+      "pages": {
+        "blog/what-are-the-best-email-clients/index.html": 1
+      },
+      "total": 1
+    },
+    "rcc-markdown:Double-opt-in": {
+      "original": "Double opt-in",
+      "value": null,
+      "pages": {
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1
+      },
+      "total": 1
+    },
+    "rcc-markdown:Send-your-best-email": {
+      "original": "Send your best email",
+      "value": null,
+      "pages": {
+        "blog/what-are-the-best-email-clients/index.html": 1
+      },
+      "total": 1
+    },
+    "rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E": {
+      "original": "So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.",
+      "value": null,
+      "pages": {
+        "blog/what-are-the-best-email-clients/index.html": 1
+      },
+      "total": 1
+    },
+    "rcc-markdown:Tracking": {
+      "original": "Tracking",
+      "value": null,
+      "pages": {
+        "blog/what-are-the-best-email-clients/index.html": 1
+      },
+      "total": 1
+    },
+    "rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E": {
+      "original": "Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.",
+      "value": null,
+      "pages": {
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1
+      },
+      "total": 1
+    },
+    "rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E": {
+      "original": "With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.",
+      "value": null,
+      "pages": {
+        "index.html": 1
+      },
+      "total": 1
+    },
+    "words": {
+      "original": "words",
+      "value": null,
+      "pages": {
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1
+      },
+      "total": 2
+    }
+  }
 }

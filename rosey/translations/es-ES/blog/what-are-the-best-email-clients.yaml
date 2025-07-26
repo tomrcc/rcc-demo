@@ -9,9 +9,150 @@ _inputs:
         - heading: Still to translate (es-ES)
           comment: "[blog/what-are-the-best-email-clients/](https://strict-clarinet.cloud\
             vent.net/blog/what-are-the-best-email-clients/)"
-          inputs: []
+          inputs:
+            - What-are-the-best-email-clients
+            - minutes
+            - rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E
+            - rcc-markdown:Send-your-best-email
+            - rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E
+            - rcc-markdown:Tracking
+            - words
         - heading: Already translated (es-ES)
           comment: "[blog/what-are-the-best-email-clients/](https://strict-clarinet.cloud\
             vent.net/blog/what-are-the-best-email-clients/)"
           inputs: []
+  What-are-the-best-email-clients:
+    label: What are the best email clients?
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/what-are-the-best-ema\
+      il-clients/#:~:text=What%20are%20the%20best%20email%20clients%3F)"
+    context: {}
+  minutes:
+    label: minutes
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/what-are-the-best-ema\
+      il-clients/#:~:text=minutes)"
+    context: {}
+  rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E:
+    label: Choose a reliable ESP that allows you to t...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      italic: true
+      strike: true
+      link: true
+      subscript: true
+      superscript: true
+      underline: true
+      code: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/what-are-the-best-ema\
+      il-clients/#:~:text=Choose%20a%20reliable%20ESP,best%20for%20your%20audie\
+      nce.)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: >
+        Choose a reliable ESP that allows you to track opens and clicks so you
+        can figure out which types of messages work best for your audience.
+  rcc-markdown:Send-your-best-email:
+    label: Send your best email
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      italic: true
+      strike: true
+      link: true
+      subscript: true
+      superscript: true
+      underline: true
+      code: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/what-are-the-best-ema\
+      il-clients/#:~:text=Send%20your%20best%20email)"
+    context: {}
+  rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E:
+    label: So, remember to keep this in mind and to a...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      italic: true
+      strike: true
+      link: true
+      subscript: true
+      superscript: true
+      underline: true
+      code: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/what-are-the-best-ema\
+      il-clients/#:~:text=So%2C%20remember%20to%20keep,in%20a%20timely%20manner\
+      .)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: >
+        So, remember to keep this in mind and to always know that if you are
+        sending out emails related to your business, be sure to follow-up with
+        customers or clients and make sure that they are getting their emails in
+        a timely manner.
+  rcc-markdown:Tracking:
+    label: Tracking
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      italic: true
+      strike: true
+      link: true
+      subscript: true
+      superscript: true
+      underline: true
+      code: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/what-are-the-best-ema\
+      il-clients/#:~:text=Tracking)"
+    context: {}
+  words:
+    label: words
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/what-are-the-best-ema\
+      il-clients/#:~:text=words)"
+    context: {}
 urlTranslation: blog/what-are-the-best-email-clients/index.html
+What-are-the-best-email-clients: ""
+minutes: ""
+rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E: ""
+rcc-markdown:Send-your-best-email: ""
+rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E: ""
+rcc-markdown:Tracking: ""
+words: ""

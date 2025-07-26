@@ -7,8 +7,59 @@ _inputs:
       groups:
         - heading: Still to translate (es-ES)
           comment: "[index.html](https://strict-clarinet.cloudvent.net/index.html)"
-          inputs: []
+          inputs:
+            - Beautiful-email-campaigns
+            - Try-This-Free
+            - rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E
         - heading: Already translated (es-ES)
           comment: "[index.html](https://strict-clarinet.cloudvent.net/index.html)"
           inputs: []
+  Beautiful-email-campaigns:
+    label: Beautiful email campaigns
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/index.html#:~:text=Beautif\
+      ul%20email%20campaigns)"
+    context: {}
+  Try-This-Free:
+    label: Try This Free
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/index.html#:~:text=Try%20T\
+      his%20Free)"
+    context: {}
+  rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E:
+    label: With Sendit, you can quickly create beauti...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      italic: true
+      strike: true
+      link: true
+      subscript: true
+      superscript: true
+      underline: true
+      code: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/index.html#:~:text=With%20\
+      Sendit%2C%20you%20can,convert%20them%20into%20customers.)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: >
+        With Sendit, you can quickly create beautiful rich emails that capture a
+        reader's attention, engage them, and convert them into customers.
 urlTranslation: index.html
+Beautiful-email-campaigns: ""
+Try-This-Free: ""
+rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E: ""

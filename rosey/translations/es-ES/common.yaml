@@ -7,7 +7,16 @@ _inputs:
       groups:
         - heading: Still to translate (es-ES)
           comment: Text to translate
-          inputs: []
+          inputs:
+            - common:recent-blog
         - heading: Already translated (es-ES)
           comment: Text already translated
           inputs: []
+  common:recent-blog:
+    label: Recent Blog
+    hidden: false
+    type: text
+    options: {}
+    comment: ""
+    context: {}
+common:recent-blog: ""

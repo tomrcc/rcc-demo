@@ -1,1 +1,62 @@
-{}
+{
+	"Beautiful-email-campaigns": {
+		"original": "Beautiful email campaigns",
+		"value": "Beautiful email campaigns"
+	},
+	"How-to-host-better-email-marketing-campaigns": {
+		"original": "How to host better email marketing campaigns?",
+		"value": "How to host better email marketing campaigns?"
+	},
+	"Try-This-Free": {
+		"original": "Try This Free",
+		"value": "Try This Free"
+	},
+	"What-are-the-best-email-clients": {
+		"original": "What are the best email clients?",
+		"value": "What are the best email clients?"
+	},
+	"common:recent-blog": {
+		"original": "Recent Blog",
+		"value": "Recent Blog"
+	},
+	"minutes": {
+		"original": "minutes",
+		"value": "minutes"
+	},
+	"rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E": {
+		"original": "Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.",
+		"value": "Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future."
+	},
+	"rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E": {
+		"original": "Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.",
+		"value": "Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience."
+	},
+	"rcc-markdown:Double-opt-in": {
+		"original": "Double opt-in",
+		"value": "Double opt-in"
+	},
+	"rcc-markdown:Send-your-best-email": {
+		"original": "Send your best email",
+		"value": "Send your best email"
+	},
+	"rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E": {
+		"original": "So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.",
+		"value": "So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner."
+	},
+	"rcc-markdown:Tracking": {
+		"original": "Tracking",
+		"value": "Tracking"
+	},
+	"rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E": {
+		"original": "Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.",
+		"value": "Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place."
+	},
+	"rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E": {
+		"original": "With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.",
+		"value": "With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers."
+	},
+	"words": {
+		"original": "words",
+		"value": "words"
+	}
+}
