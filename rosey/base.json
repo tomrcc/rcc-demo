@@ -33,6 +33,216 @@
       },
       "total": 1
     },
+    "common:About": {
+      "original": "About",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
+    "common:All-Articles": {
+      "original": "All Articles",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
+    "common:Blog": {
+      "original": "Blog",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
+    "common:Contact": {
+      "original": "Contact",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
+    "common:Features": {
+      "original": "Features",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
+    "common:Get-Started": {
+      "original": "Get Started",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
+    "common:Home": {
+      "original": "Home",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
+    "common:Marketing": {
+      "original": "Marketing",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
+    "common:Pricing": {
+      "original": "Pricing",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
+    "common:Technology": {
+      "original": "Technology",
+      "value": null,
+      "pages": {
+        "404.html": 1,
+        "about/index.html": 1,
+        "blog/how-to-host-better-email-marketing-campaigns/index.html": 1,
+        "blog/index.html": 1,
+        "blog/what-are-the-best-email-clients/index.html": 1,
+        "contact/index.html": 1,
+        "features/index.html": 1,
+        "index.html": 1,
+        "login/index.html": 1,
+        "pricing/index.html": 1,
+        "privacy/index.html": 1,
+        "signup/index.html": 1,
+        "tags/blog/index.html": 1,
+        "tags/marketing/index.html": 1
+      },
+      "total": 14
+    },
     "common:recent-blog": {
       "original": "Recent Blog",
       "value": null,
