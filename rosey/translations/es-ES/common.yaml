@@ -7,6 +7,9 @@ _inputs:
       groups:
         - heading: Still to translate (es-ES)
           comment: Text to translate
+          inputs: []
+        - heading: Already translated (es-ES)
+          comment: Text already translated
           inputs:
             - common:A-new-nav-item!
             - common:About
@@ -19,9 +22,6 @@ _inputs:
             - common:Marketing
             - common:Pricing
             - common:Technology
-        - heading: Already translated (es-ES)
-          comment: Text already translated
-          inputs:
             - common:recent-blog
   common:A-new-nav-item!:
     label: A new nav item!
