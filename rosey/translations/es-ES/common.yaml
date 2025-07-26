@@ -8,6 +8,7 @@ _inputs:
         - heading: Still to translate (es-ES)
           comment: Text to translate
           inputs:
+            - common:A-new-nav-item!
             - common:About
             - common:All-Articles
             - common:Blog
@@ -22,6 +23,13 @@ _inputs:
           comment: Text already translated
           inputs:
             - common:recent-blog
+  common:A-new-nav-item!:
+    label: A new nav item!
+    hidden: false
+    type: text
+    options: {}
+    comment: ""
+    context: {}
   common:About:
     label: About
     hidden: false
@@ -99,15 +107,27 @@ _inputs:
     options: {}
     comment: ""
     context: {}
-common:About: ""
-common:All-Articles: ""
-common:Blog: ""
-common:Contact: ""
-common:Features: ""
-common:Get-Started: ""
-common:Home: ""
-common:Marketing: ""
-common:Pricing: ""
-common:Technology: ""
+common:A-new-nav-item!: |
+  ¡Un nuevo elemento de navegación!
+common:About: |
+  Acerca de
+common:All-Articles: |
+  Todos los artículos
+common:Blog: |
+  Blog
+common:Contact: |
+  Contacto
+common:Features: |
+  Funciones
+common:Get-Started: |
+  Comenzar
+common:Home: |
+  Hogar
+common:Marketing: |
+  Marketing
+common:Pricing: |
+  Precios
+common:Technology: |
+  Tecnología
 common:recent-blog: |
   Blog reciente
