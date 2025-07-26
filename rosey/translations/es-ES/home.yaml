@@ -1,0 +1,14 @@
+_inputs:
+  $:
+    type: object
+    comment: "[index.html](https://strict-clarinet.cloudvent.net/index.html)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es-ES)
+          comment: "[index.html](https://strict-clarinet.cloudvent.net/index.html)"
+          inputs: []
+        - heading: Already translated (es-ES)
+          comment: "[index.html](https://strict-clarinet.cloudvent.net/index.html)"
+          inputs: []
+urlTranslation: index.html

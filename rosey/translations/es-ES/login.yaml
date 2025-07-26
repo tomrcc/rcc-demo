@@ -1,0 +1,14 @@
+_inputs:
+  $:
+    type: object
+    comment: "[login/](https://strict-clarinet.cloudvent.net/login/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es-ES)
+          comment: "[login/](https://strict-clarinet.cloudvent.net/login/)"
+          inputs: []
+        - heading: Already translated (es-ES)
+          comment: "[login/](https://strict-clarinet.cloudvent.net/login/)"
+          inputs: []
+urlTranslation: login/index.html

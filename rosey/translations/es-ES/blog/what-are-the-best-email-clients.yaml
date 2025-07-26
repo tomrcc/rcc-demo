@@ -1,0 +1,17 @@
+_inputs:
+  $:
+    type: object
+    comment: "[blog/what-are-the-best-email-clients/](https://strict-clarinet.cloud\
+      vent.net/blog/what-are-the-best-email-clients/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es-ES)
+          comment: "[blog/what-are-the-best-email-clients/](https://strict-clarinet.cloud\
+            vent.net/blog/what-are-the-best-email-clients/)"
+          inputs: []
+        - heading: Already translated (es-ES)
+          comment: "[blog/what-are-the-best-email-clients/](https://strict-clarinet.cloud\
+            vent.net/blog/what-are-the-best-email-clients/)"
+          inputs: []
+urlTranslation: blog/what-are-the-best-email-clients/index.html

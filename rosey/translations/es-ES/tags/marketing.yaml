@@ -1,0 +1,16 @@
+_inputs:
+  $:
+    type: object
+    comment: "[tags/marketing/](https://strict-clarinet.cloudvent.net/tags/marketing/)"
+    options:
+      place_groups_below: false
+      groups:
+        - heading: Still to translate (es-ES)
+          comment: "[tags/marketing/](https://strict-clarinet.cloudvent.net/tags/marketin\
+            g/)"
+          inputs: []
+        - heading: Already translated (es-ES)
+          comment: "[tags/marketing/](https://strict-clarinet.cloudvent.net/tags/marketin\
+            g/)"
+          inputs: []
+urlTranslation: tags/marketing/index.html
