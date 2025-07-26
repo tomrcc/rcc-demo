@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import navigation from "@data/navigation.json";
+import { generateRoseyId } from "rosey-connector/helpers/text-formatters.mjs"
 
 export default function Navigation({ pageUrl }) {
   const [isSticky, setSticky] = useState(false);
@@ -47,6 +48,7 @@ export default function Navigation({ pageUrl }) {
         <nav
           className={`navbar navbar-expand-lg position-fixed w-100 zindex-dropdown${isSticky ? " sticky-nav" : ""}`}
           id="mainnavigationBar"
+          data-rosey-ns="common"
         >
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
@@ -140,13 +142,15 @@ export default function Navigation({ pageUrl }) {
                         href={`${item.link}`}
                         className={`nav-link dropdown-link ${pageUrl?.pathname === item.link ? "active" : ""}`}
                         onClick={handleDropdownClick}
+                        data-rosey={generateRoseyId(item.text)}
                       >
                         {item.text}
                       </a>
                       <ul className="dropdown-menu">
                         {item.dropdown.map((dropdown_item, j) => (
                           <li key={j}>
-                            <a className="dropdown-item" href={dropdown_item.dropdown_link}>
+                            <a className="dropdown-item" href={dropdown_item.dropdown_link}
+                            data-rosey={generateRoseyId(dropdown_item.dropdown_text)}>
                               {dropdown_item.dropdown_text}
                             </a>
                           </li>
@@ -157,6 +161,7 @@ export default function Navigation({ pageUrl }) {
                     <a
                       href={`${item.link}`}
                       className={`nav-link ${pageUrl?.pathname === item.link ? "active" : ""}`}
+                      data-rosey={generateRoseyId(item.text)}
                     >
                       {item.text}
                     </a>
@@ -172,6 +177,7 @@ export default function Navigation({ pageUrl }) {
                 <a
                   href={`${navigation.nav_btn?.link}`}
                   className="btn btn-sm btn-links"
+                  data-rosey={generateRoseyId(navigation.nav_btn?.text)}
                 >
                   {navigation.nav_btn?.text}
                 </a>
