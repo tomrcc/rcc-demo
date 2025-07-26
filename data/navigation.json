@@ -2,32 +2,32 @@
   "logo": "/images/logo.svg",
   "items": [
     {
-      "text": "Home",
       "link": "/",
+      "text": "Home",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Features",
       "link": "/features/",
+      "text": "Features",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Pricing",
       "link": "/pricing/",
+      "text": "Pricing",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "About",
       "link": "/about/",
+      "text": "About",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Blog",
       "link": "/blog/",
+      "text": "Blog",
       "enable_dropdown": true,
       "dropdown": [
         {
@@ -45,10 +45,16 @@
       ]
     },
     {
-      "text": "Contact",
       "link": "/contact/",
+      "text": "Contact",
       "enable_dropdown": false,
       "dropdown": []
+    },
+    {
+      "link": "/",
+      "text": "A new nav item!",
+      "enable_dropdown": null,
+      "dropdown": null
     }
   ],
   "enable_nav_btn": true,
