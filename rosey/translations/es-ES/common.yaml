@@ -19,4 +19,5 @@ _inputs:
     options: {}
     comment: ""
     context: {}
-common:recent-blog: ""
+common:recent-blog: |
+  Blog reciente

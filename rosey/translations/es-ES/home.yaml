@@ -61,5 +61,9 @@ _inputs:
         reader's attention, engage them, and convert them into customers.
 urlTranslation: index.html
 Beautiful-email-campaigns: This is a manually translated heading
-Try-This-Free: ""
-rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E: ""
+Try-This-Free: |
+  Prueba esto gratis
+rcc-markdown:With-Sendit-you-can-quickly-create-beautiful-rich-emails-that-capture-a-reader's-attention-engage-them-and-convert-them-into-customers%2E: >
+  Con Sendit, puedes crear rápidamente hermosos correos electrónicos
+  enriquecidos que capten la atención de los lectores, los atraigan y los
+  conviertan en clientes.

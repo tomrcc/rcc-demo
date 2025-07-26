@@ -149,10 +149,22 @@ _inputs:
       il-clients/#:~:text=words)"
     context: {}
 urlTranslation: blog/what-are-the-best-email-clients/index.html
-What-are-the-best-email-clients: ""
-minutes: ""
-rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E: ""
-rcc-markdown:Send-your-best-email: ""
-rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E: ""
-rcc-markdown:Tracking: ""
-words: ""
+What-are-the-best-email-clients: |
+  ¿Cuáles son los mejores clientes de correo electrónico?
+minutes: |
+  acta
+rcc-markdown:Choose-a-reliable-ESP-that-allows-you-to-track-opens-and-clicks-so-you-can-figure-out-which-types-of-messages-work-best-for-your-audience%2E: >
+  Elija un ESP confiable que le permita realizar un seguimiento de las aperturas
+  y los clics para que pueda descubrir qué tipos de mensajes funcionan mejor
+  para su audiencia.
+rcc-markdown:Send-your-best-email: |
+  Envía tu mejor correo electrónico
+rcc-markdown:So-remember-to-keep-this-in-mind-and-to-always-know-that-if-you-are-sending-out-emails-related-to-your-business-be-sure-to-follow-up-with-customers-or-clients-and-make-sure-that-they-are-getting-their-emails-in-a-timely-manner%2E: >
+  Por lo tanto, recuerde tener esto en cuenta y saber siempre que si está
+  enviando correos electrónicos relacionados con su negocio, asegúrese de hacer
+  un seguimiento de los clientes y asegúrese de que reciban sus correos
+  electrónicos de manera oportuna.
+rcc-markdown:Tracking: |
+  Seguimiento
+words: |
+  palabras
