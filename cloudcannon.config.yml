@@ -58,6 +58,20 @@ collections_config:
     disable_add_folder: true
     disable_url: true
     icon: data_usage
+  translations:
+    path: rosey
+    icon: translate
+    disable_url: true
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: false
+    glob:
+      - rcc.yaml
+      - 'translations/**'
+    _inputs:
+      urlTranslation:
+        type: text
+        comment: Provide a translated URL, and Rosey will build this page at that address.
 
 
 collection_groups:
@@ -67,9 +81,10 @@ collection_groups:
   - heading: Blogging
     collections:
       - posts
-  - heading: Site Settings
+  - heading: Data
     collections:
       - data
+      - translations
       - site_navigation
       - theme_palette
 
