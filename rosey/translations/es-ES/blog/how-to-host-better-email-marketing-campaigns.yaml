@@ -1,35 +1,36 @@
 _inputs:
   $:
     type: object
-    comment: >-
-      [blog/how-to-host-better-email-marketing-campaigns/](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
+    comment: "[blog/how-to-host-better-email-marketing-campaigns/](https://strict-c\
+      larinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es-ES)
-          comment: >-
-            [blog/how-to-host-better-email-marketing-campaigns/](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
+          comment: "[blog/how-to-host-better-email-marketing-campaigns/](https://strict-c\
+            larinet.cloudvent.net/blog/how-to-host-better-email-marketing-campa\
+            igns/)"
           inputs:
             - How-to-host-better-email-marketing-campaigns
             - minutes
-            - >-
-              rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E
-            - rcc-markdown:Double-opt-in
-            - >-
-              rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E
+            - rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E
+            - rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E
             - words
         - heading: Already translated (es-ES)
-          comment: >-
-            [blog/how-to-host-better-email-marketing-campaigns/](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
-          inputs: []
+          comment: "[blog/how-to-host-better-email-marketing-campaigns/](https://strict-c\
+            larinet.cloudvent.net/blog/how-to-host-better-email-marketing-campa\
+            igns/)"
+          inputs:
+            - rcc-markdown:Double-opt-in
   How-to-host-better-email-marketing-campaigns:
     label: How to host better email marketing campaig...
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See in
-      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/#:~:text=How%20to%20host%20better%20email%20marketing%20campaigns%3F)
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-em\
+      ail-marketing-campaigns/#:~:text=How%20to%20host%20better%20email%20marke\
+      ting%20campaigns%3F)"
     context:
       open: false
       title: Untranslated Text
@@ -41,9 +42,9 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/#:~:text=minutes)
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-em\
+      ail-marketing-campaigns/#:~:text=minutes)"
     context: {}
   rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E:
     label: Before you send out any campaign using an ...
@@ -62,9 +63,10 @@ _inputs:
       redo: true
       removeformat: true
       copyformatting: true
-    comment: >-
-      [See in
-      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/#:~:text=Before%20you%20send%20out,you%20in%20the%20future.)
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-em\
+      ail-marketing-campaigns/#:~:text=Before%20you%20send%20out,you%20in%20the\
+      %20future.)"
     context:
       open: false
       title: Untranslated Text
@@ -92,9 +94,9 @@ _inputs:
       redo: true
       removeformat: true
       copyformatting: true
-    comment: >-
-      [See in
-      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/#:~:text=Double%20opt%2Din)
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-em\
+      ail-marketing-campaigns/#:~:text=Double%20opt%2Din)"
     context: {}
   rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E:
     label: Use double opt-in when sending out marketi...
@@ -113,9 +115,10 @@ _inputs:
       redo: true
       removeformat: true
       copyformatting: true
-    comment: >-
-      [See in
-      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/#:~:text=Use%20double%20opt%2Din%20when,in%20the%20first%20place.)
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-em\
+      ail-marketing-campaigns/#:~:text=Use%20double%20opt%2Din%20when,in%20the%\
+      20first%20place.)"
     context:
       open: false
       title: Untranslated Text
@@ -132,14 +135,14 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See in
-      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/#:~:text=words)
+    comment: "[See in
+      context](https://strict-clarinet.cloudvent.net/blog/how-to-host-better-em\
+      ail-marketing-campaigns/#:~:text=words)"
     context: {}
 urlTranslation: blog/how-to-host-better-email-marketing-campaigns/index.html
-How-to-host-better-email-marketing-campaigns: ''
-minutes: ''
-rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E: ''
+How-to-host-better-email-marketing-campaigns: ""
+minutes: ""
+rcc-markdown:Before-you-send-out-any-campaign-using-an-email-marketing-tool-make-sure-that-you-have-permission-from-your-subscribers-to-send-them-emails%2E-You-can-do-this-by-asking-them-during-signup-or-including-a-checkbox-in-the-subscription-form-asking-if-they'd-like-to-receive-marketing-communications-from-you-in-the-future%2E: ""
 rcc-markdown:Double-opt-in: A manual translation on a blog post
-rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E: ''
-words: ''
+rcc-markdown:Use-double-opt-in-when-sending-out-marketing-emails%2E-This-means-that-the-recipient-must-have-previously-agreed-to-receive-emails-from-you-before-they-can-see-content-in-their-inboxes-or-on-their-mobile-devices%2E-This-helps-prevent-people-from-signing-up-for-newsletters-they-don't-want-and-can-help-protect-against-spam-complaints-from-users-who-didn't-know-they-had-signed-up-for-something-in-the-first-place%2E: ""
+words: ""
