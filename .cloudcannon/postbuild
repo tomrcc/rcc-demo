@@ -1,6 +1,11 @@
-# Clean the npm .bin for CI
-rm -rf node_modules
+#!/usr/bin/env bash
 
-# Install and run generate
-npm i
 npx "@bookshop/generate"
+
+node rosey-tagger/main.mjs --source dist # Add the flag --verbose for more logs
+npx rosey generate --source dist
+node rosey-connector/main.mjs
+
+echo "Translating site with Rosey"
+mv ./dist ./untranslated_site                  
+npx rosey build --source untranslated_site --dest dist --default-language-at-root
