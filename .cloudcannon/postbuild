@@ -2,9 +2,12 @@
 
 npx "@bookshop/generate"
 
-node rosey-tagger/main.mjs --source dist # Add the flag --verbose for more logs
+# npx rosey-cloudcannon-connector tagger --source dist
+# npx rosey-cloudcannon-connector generate
+
+# npm run rosey-tagger/main.mjs --source dist # Add the flag --verbose for more logs
 npx rosey generate --source dist
-node rosey-connector/main.mjs
+# node rosey-connector/main.mjs
 
 echo "Translating site with Rosey"
 mv ./dist ./untranslated_site                  
