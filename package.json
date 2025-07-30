@@ -27,7 +27,8 @@
     "punycode": "^2.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "rosey": "^2.3.3"
+    "rosey": "^2.3.3",
+    "slugify": "^1.6.6"
   },
   "devDependencies": {
     "@astrojs/rss": "^1.0.3",
