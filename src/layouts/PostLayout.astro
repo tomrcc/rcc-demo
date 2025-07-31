@@ -3,7 +3,7 @@ import Layout, { SEOProps } from "@layouts/Layout.astro";
 import PostSummary from "@components/posts/summary";
 import { getCollection } from "astro:content";
 import type { MarkdownLayoutProps } from "astro";
-import { generateRoseyId } from "rosey-connector/helpers/text-formatters.mjs"
+import { generateRoseyId } from "rosey-cloudcannon-connector/utils"
 
 type Props =
   | {

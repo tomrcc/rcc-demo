@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import navigation from "@data/navigation.json";
-import { generateRoseyId } from "rosey-connector/helpers/text-formatters.mjs"
+import { generateRoseyId } from "rosey-cloudcannon-connector/utils"
 
 export default function Navigation({ pageUrl }) {
   const [isSticky, setSticky] = useState(false);
