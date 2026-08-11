@@ -1,0 +1,65 @@
+---
+import BlogList from "../../../components/blog/list.astro";
+import BlogPagination from "../../../components/blog/pagination";
+import Layout from "../../../layouts/Layout.astro";
+import { getCollection, getEntry } from "astro:content";
+import { tagLabel } from "../../../utils/tags";
+
+export async function getStaticPaths({ paginate }: { paginate: Function }) {
+  const tags: Record<string, any> = {};
+  const page = await getEntry("pages", "blog");
+  const posts = await getCollection("blog");
+
+  if (!page) return;
+
+  for (const post of posts) {
+    for (const tag of post.data.post_hero.tags) {
+      tags[tag] = true;
+    }
+  }
+
+  return Object.keys(tags).flatMap((tag) => {
+    const filteredPosts = posts.filter(({ data }) =>
+      data.post_hero.tags.includes(tag),
+    );
+    return paginate(filteredPosts, {
+      params: { tag },
+      pageSize: "page_size" in page.data ? page.data.page_size : 6,
+    });
+  });
+}
+
+const tag = Astro.params.tag ?? "";
+const page = (await getEntry("pages", "blog"))?.data;
+
+if (!page) {
+  throw new Error("Failed to get blog page data");
+}
+
+// Don't assign to `page.title` — content entry data is cached and shared, so
+// mutating it leaks the tag name into every other route that reads this entry.
+const heading = tagLabel(tag);
+
+const pagination = Astro.props.page;
+const filteredPosts = pagination.data;
+---
+
+<!-- roseyRoot is shared by every tag page, so the title needs an explicit key
+     per tag; the description is identical across them and stays shared. -->
+<Layout
+  title={heading}
+  seo={page.seo}
+  roseyRoot="tags"
+  roseyTitleKey={`tag_page_titles:${tag}`}
+  roseyDescriptionKey="tag_page_description"
+>
+  <div class="mx-auto max-w-6xl px-8 py-16">
+    <h1 class="text-3xl md:text-4xl font-bold text-center mb-8" data-rosey={tag}>
+      {heading}
+    </h1>
+    <section>
+      <BlogList posts={filteredPosts} />
+      <BlogPagination pagination={pagination} basePath={`/tags/${tag}`} />
+    </section>
+  </div>
+</Layout>
